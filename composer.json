@@ -1,0 +1,12 @@
+{
+	"name": "beaten-sect0r/yii-elfinder",
+	"description": "Yii обёртка для https://github.com/Studio-42/elFinder",
+	"homepage": "http://fault.ws",
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Beaten_Sect0r",
+			"homepage": "http://fault.ws"
+		}
+	]
+}
