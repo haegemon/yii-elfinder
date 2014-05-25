@@ -8,7 +8,7 @@ Yii обёртка для https://github.com/Studio-42/elFinder
 Установка
 Скачать и распаковать в extensions.
 Добавить в view, поправить путь до action:
-<?php $this->widget('ext.yii-elfinder.elFinder', array('url' => Yii::app()->request->hostInfo . '/site/elfinder')); ?>
+<?php $this->widget('ext.yii-elfinder.elFinder', array('url' => Yii::app()->request->hostInfo . '/site/elfinder/')); ?>
 
 Добавить в контроллер:
 	public function actions()
