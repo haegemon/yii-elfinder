@@ -5,6 +5,8 @@
  * http://fault.ws
  */
 
+error_reporting(0); // Set E_ALL for debuging
+
 class elFinderConnectorAction extends CAction
 {
 	public function run()
