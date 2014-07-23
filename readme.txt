@@ -14,7 +14,7 @@ Yii обёртка для https://github.com/Studio-42/elFinder
 	public function actions()
 	{
 		return array(
-			'elfinder' => "ext.yii-elfinder.elFinderConnectorAction",
+			'elfinder' => 'ext.yii-elfinder.elFinderConnectorAction',
 		);
 	}
 
